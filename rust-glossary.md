@@ -257,7 +257,7 @@ mutability                       | 可变性                         | 可變性
 mutable                          | 可变                           | 可變                      |
 mutable reference                | 可变引用                       | 可變參考，可變參照          |
 multiple bounds                  | 多重约束                       | 多重約束                    |
-mutiple patterns                 | 多重模式                       | 多重模式                    |
+multiple patterns                 | 多重模式                       | 多重模式                    |
 **N**                            |                                |                        |
 namespace                        | 命名空间                       | 命名空間               |
 nest                             | 嵌套                           | 嵌套                     |
@@ -338,7 +338,7 @@ schedule                         | 调度                           | 排程    
 scope                            | 作用域                         | 作用域            |
 screen                           | 屏幕                           | 螢幕             |
 script                           | 脚本                           | 腳本，手稿          |
-segmenatation fault              | 存储器段错误，存储器区段错误   | 記憶體段錯誤，記憶體區段錯誤 |
+segmentation fault              | 存储器段错误，存储器区段错误   | 記憶體段錯誤，記憶體區段錯誤 |
 semicolon                        | 分号，“;”                      | 分號，“;”         |
 self                             | 自身，作关键字时不译           | 自身，作關鍵字時不譯     |
 shadow                           | 遮蔽，隐蔽，隐藏，覆盖         | 遮蔽，隱蔽，隱藏，覆蓋    |
@@ -376,7 +376,7 @@ tagged union                     | 标记联合                       | 標記�
 target triple                    | 多层次指标，三层/重 指标/目标  | 三元目標描述           | triple 本义是“三”，但此处虚指“多”，<br>此词翻译需要更多讨论
 terminal                         | 终端                           | 終端機              |
 testing                          | 测试                           | 測試               |
-testsuit                         | 测试套件                       | 測試套件             |
+testsuite                         | 测试套件                       | 測試套件             |
 test double                      | 测试替代                       | 測試替身             |
 the least significant bit (LSB)  | 最低有效位                     | 最低有效位            |
 the most significant bit (MSB)   | 最高有效位                     | 最高有效位            |
